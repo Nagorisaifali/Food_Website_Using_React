@@ -6,56 +6,84 @@ import south from '../images/south.jpeg'
 import rajisthani from '../images/rajisthani.jpeg' 
 import gujrati from '../images/gujrati.jpeg' 
 import idli from '../images/idli.jpeg'
+import samose from '../images/samose.jpg'
+import sandwich from '../images/sandwich.jpeg'
+import burger from '../images/burger.jpeg'
+import pizza from '../images/pizza.jpeg'
 
 
 export const MenuList = [
+    {
+        name : 'Pizza' , 
+        description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
+        image : pizza , 
+        Price : 200 
+    },
+    {
+        name : 'Burger' , 
+        description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
+        image : burger , 
+        Price : 80 
+    },
     {
         name : 'Dosa' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : Dosa , 
         Price : 200 
     },
+    {
+        name : 'Samose' , 
+        description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
+        image : samose , 
+        Price : 50
+    },
+    {
+        name : 'Sandwich' , 
+        description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
+        image : Dosa , 
+        Price : 75 
+    },
 
     {
-        name : 'chole' , 
+        name : 'Chole' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : chole , 
         Price : 180 
     },
 
     {
-        name : 'paneer' , 
+        name : 'Paneer' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : paneer , 
         Price : 250 
     }, 
 
     {
-        name : 'idli' , 
+        name : 'Idli' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : idli , 
         Price : 100
     },
     {
-        name : 'south' , 
+        name : 'South food' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : south , 
         Price : 120 
     },
     {
-        name : 'gujrati' , 
+        name : 'Gujrati Dish' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : gujrati , 
         Price : 150 
     },
     {
-        name : 'rajisthani' , 
+        name : 'Rajisthani Thali' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : rajisthani , 
         Price : 220 
     },
     {
-        name : 'masala' , 
+        name : 'Masala Food' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : masala , 
         Price : 200 
