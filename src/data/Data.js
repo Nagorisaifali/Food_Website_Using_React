@@ -41,7 +41,7 @@ export const MenuList = [
         name : 'Sandwich' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : sandwich , 
-        Price : 75 
+        Price : 80  
     },
 
     {
@@ -55,20 +55,20 @@ export const MenuList = [
         name : 'Paneer' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : paneer , 
-        Price : 250 
+        Price : 225 
     }, 
 
     {
         name : 'Idli' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : idli , 
-        Price : 100
+        Price : 80
     },
     {
         name : 'South food' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : south , 
-        Price : 120 
+        Price : 200 
     },
     {
         name : 'Gujrati Dish' , 
@@ -86,6 +86,6 @@ export const MenuList = [
         name : 'Masala Food' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
         image : masala , 
-        Price : 200 
+        Price : 180 
     }
 ]
