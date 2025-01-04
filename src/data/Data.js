@@ -40,7 +40,7 @@ export const MenuList = [
     {
         name : 'Sandwich' , 
         description: 'Lorem10 ispum dolor sit , amet consecteture adipsicing elit  ',
-        image : Dosa , 
+        image : sandwich , 
         Price : 75 
     },
 
